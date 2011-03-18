@@ -1,0 +1,4 @@
+.rvmrc
+.vagrant
+vagrant/
+!vagrant/Readme
